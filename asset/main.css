@@ -123,7 +123,7 @@ body{
 
 /*--- flag ----*/
 .icone{
-    width: 70px;
+    width: 3.2rem;
 }
 
 .punch{
@@ -131,22 +131,22 @@ body{
     top:40%;
     left:50%;
     transform: translate(-50%, -50%);
-    width:220px;
+    width:10rem;
     
 }
 
 .punch h2{
     color:white;
     font-family: 'lato', sans-serif;
-    font-size:1.6rem;
+    font-size:1.5rem;
     font-weight:900;
     text-transform: uppercase;
     text-align: center;
 }
 
 .flag{
-    width: 110px;
-    height: 110px;
+    width: 5.5rem;
+    height: 5.5rem;
     border-radius: 50%;
     background-color:#444245;
     position: absolute;
@@ -167,7 +167,7 @@ body{
 }
 
 .flagContenair .flag1{
-    left:85%
+    left:88%
 }
 
 .flagContenair .flag2{
@@ -197,9 +197,9 @@ body{
 .contact{
     position:absolute;
     top:80%;
-    left:55%;
+    left:65%;
     transform:translate(-50%,-50%);
-    width:150px;
+    width:9rem;
     height: 40px;
     border-radius: 15px;
     background-image: linear-gradient(145deg, skyblue, royalblue, skyblue);
